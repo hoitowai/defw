@@ -1,4 +1,4 @@
-Companion codes for the paper "Decentralized Frank-Wolfe Algorithm for Convex and Non-convex Problems", accepted by IEEE TAC, to appear, 2017.
+Companion codes for the paper "Decentralized Frank-Wolfe Algorithm for Convex and Non-convex Problems", accepted by IEEE TAC, to appear, 2017. [Preprint available: http://arxiv.org/abs/1612.01216]
 
 # Content
 
