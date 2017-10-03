@@ -13,3 +13,5 @@ LASSO examples
 Under folder "Tools_Data"
 - MC_gen_syndata.m -- Code for generating synthetic data for matrix completion examples
 - proj_l1.m -- Function for projection onto the L1 ball
+
+The movielens100k dataset is taken from https://grouplens.org/datasets/movielens/ and imported into the MATLAB format for the ease of processing.
